@@ -1,0 +1,28 @@
+.card {
+  background-color: lightblue;
+  border-radius: 10px;
+  border: 1px solid gray;
+  width: fit-content;
+  padding: 10px;
+  min-height: 180px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title {
+  font-size: 24px;
+  color: darkblue;
+}
+
+.description {
+  font-size: 16px;
+  color: darkblue;
+}
+
+.button {
+  font-size: 16px;
+  color: coral;
+  cursor: pointer;
+}
